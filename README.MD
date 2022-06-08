@@ -17,7 +17,7 @@
 * pip install bs4
 
 # Google Dork
-index of /PHP/eval-stdin.php
+* index of /PHP/eval-stdin.php
 
 # Version 
 * exe ( use windows )
