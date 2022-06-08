@@ -6,9 +6,9 @@
 </p>
 
 # Featured
-* [»] Mass Scan env
-* [»] Mass Scan debug
-* [»] Mass Scan eval-stdin.php
+* Mass Scan env
+* Mass Scan debug
+* Mass Scan eval-stdin.php
 
 # Instalation
 * apt install python3
