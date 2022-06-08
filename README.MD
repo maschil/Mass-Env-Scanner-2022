@@ -1,4 +1,4 @@
-# Env Laravel Scanner 2022
+# Laravel Scanner 2022
 
 # Preview
 <p align="center">
