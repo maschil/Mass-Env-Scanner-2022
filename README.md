@@ -11,21 +11,22 @@ Version
 -----
 * exe
 * python3
+
 Contacts
 -----
 ``` exe
-<p><a href="https://t.me/dhenbhocil">Telegram</a></p>
-<p><a href="https://t.me/smtpfree7">Group Telegram</a></p>
+Telegram : https://t.me/dhenbhocil
+Group Telegram : https://t.me/smtpfree7
 ```
 Channel
 -----
 ``` exe
-<p><a href="https://youtube.com/channel/UCMevdvbbnsM0iiQ5G_mC7pA">YouTube</a></p>
-<p><a href="https://dhenbhocil.my.id">Blogspot</a></p>
-<p><a href="https://dhen-bhocil.my.id">Api Requests</a></p>
+YouTube : https://youtube.com/channel/UCMevdvbbnsM0iiQ5G_mC7pA
+Blogspot : https://dhenbhocil.my.id
+Api Requests : https://dhen-bhocil.my.id">
 ```
 Donation
 -----
 ``` exe
-<p><a href="https://saweria.co/dhenbhocil">Donation</a></p>
+Donation : https://saweria.co/dhenbhocil
 ```
