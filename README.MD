@@ -2,7 +2,7 @@
 
 # Preview
 <p align="center">
-<img src="https://raw.githubusercontent.com/maschil/Mass-Env-Scanner-2022/main/20220608_223118.png" width="200" height="200"/>
+<img src="https://raw.githubusercontent.com/maschil/Mass-Env-Scanner-2022/main/20220608_223118.png" width="350" height="350"/>
 </p>
 
 # Featured
@@ -12,7 +12,6 @@
 
 # Google Dork
 index of /PHP/eval-stdin.php
-<br/> And Use Your Brain
 
 # Version 
 * exe ( use windows )
