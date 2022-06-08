@@ -15,7 +15,7 @@ index of /PHP/eval-stdin.php
 
 # Version 
 * exe ( use windows )
-* python3
+* python3 ( termux or linux )
 
 # About Me
 Telegram : https://t.me/dhenbhocil
