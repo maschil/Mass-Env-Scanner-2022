@@ -6,11 +6,12 @@
 </p>
 
 # Featured
-[»] Mass Scan env
-<br/>[»] Mass Scan debug
-<br/>[»] Mass Scan eval-stdin.php
+* [»] Mass Scan env
+* [»] Mass Scan debug
+* [»] Mass Scan eval-stdin.php
 
 # Instalation
+* apt install python3
 * pip install requests
 * pip install colorama
 * pip install mechanize
@@ -21,7 +22,7 @@
 
 # Version 
 * exe ( use windows )
-* python3 ( termux or linux )
+* Python 3.10.2 ( termux or linux )
 
 # About Me
 Telegram : https://t.me/dhenbhocil
