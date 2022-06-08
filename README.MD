@@ -10,6 +10,12 @@
 <br/>[»] Mass Scan debug
 <br/>[»] Mass Scan eval-stdin.php
 
+# Instalation
+* pip install requests
+* pip install colorama
+* pip install mechanize
+* pip install bs4
+
 # Google Dork
 index of /PHP/eval-stdin.php
 
