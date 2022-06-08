@@ -22,8 +22,8 @@ Channel
 -----
 ``` exe
 YouTube : https://youtube.com/channel/UCMevdvbbnsM0iiQ5G_mC7pA
-Blogspot : https://dhenbhocil.my.id
-Api Requests : https://dhen-bhocil.my.id">
+Blogspot : <a href="https://dhenbhocil.my.id">dhenbhocil.my.id<\a>
+Api Requests : https://dhen-bhocil.my.id
 ```
 Donation
 -----
